@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: white;
   margin: 0;
   padding: 0;
 }
@@ -70,11 +70,3 @@ form button {
   padding: 2rem 0;
 }
 
-body {
-  color: #111; /* Strong contrast */
-  background-color: #fff;
-}
-
-a {
-  color: #0033cc;
-}
