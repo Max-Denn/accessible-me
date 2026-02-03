@@ -69,3 +69,12 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+body {
+  color: #111; /* Strong contrast */
+  background-color: #fff;
+}
+
+a {
+  color: #0033cc;
+}
